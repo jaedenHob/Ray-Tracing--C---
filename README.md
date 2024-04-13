@@ -3,7 +3,7 @@
 ## General Info
 I have a interest in things relating to computer graphics. Ray tracing is a topic of interest to me for a while. I'm working on 
 something covering raytracing but to be implemented via Webgl, but there are issues due to not having a GPU that can handle 
-the current workload. So until I can better understand how I can optimize it, this project is to follow along the tutorial and learn
+the current workload. So until I can better understand how I can optimize it, this project is to follow along the [tutorial](https://raytracing.github.io/books/RayTracingInOneWeekend.html) and learn
 the concepts and math behind.
 
 ## Setup
